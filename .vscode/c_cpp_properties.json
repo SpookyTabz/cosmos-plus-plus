@@ -1,13 +1,12 @@
 {
     "configurations": [
-
         {
             "name": "Ubuntu",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe", // change to /usr/bin/gcc if on ubuntu os
             "cStandard": "gnu11",
             "cppStandard": "gnu++17",
             "intelliSenseMode": "gcc-x86"
