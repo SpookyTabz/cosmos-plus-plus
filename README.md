@@ -9,3 +9,11 @@
 * [ubuntu for windows](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
 
 install dependencies from dependencies.sh
+
+## Build
+* run make image
+
+## Iso Usage
+* [VMWare](https://www.vmware.com/no.html)
+* [VirtualBox](https://www.virtualbox.org/)
+* [Rufus](https://rufus.ie/en/)
