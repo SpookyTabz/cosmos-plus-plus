@@ -1,1 +1,3 @@
 # cosmos-plus-plus
+
+## Dependencies
