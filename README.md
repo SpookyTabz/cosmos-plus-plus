@@ -1,6 +1,6 @@
 # cosmos-plus-plus
 
-## Setup
+## Dependencies
 ### Windows
 * [ubuntu for windows](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
 
