@@ -7,6 +7,7 @@
 ## Dependencies
 ### Windows
 * [ubuntu for windows](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+* [MinGW](https://nuwen.net/mingw.html) remember to add bin folder to system path
 
 install dependencies from dependencies.sh
 
